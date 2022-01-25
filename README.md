@@ -1,5 +1,5 @@
 
-![](1.PNG)
+![](1.png)
 
   * * <img src="summary.png" width="250" height="200">
 

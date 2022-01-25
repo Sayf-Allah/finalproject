@@ -30,7 +30,7 @@ The basis of the game originated in Switzerland in the 18th century when the mat
 
 <img align="right" width="70" height="70" src="c.png">
 <p style="font-size:50px"  align="center" >Code and Explications </p>
-<img align="left" width="70" height="70" src=" qt%20(2).PNG">
+<img align="left" width="70" height="70" src="qt (2).png">
 
 <br>
 <br>

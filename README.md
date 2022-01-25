@@ -30,7 +30,7 @@ The basis of the game originated in Switzerland in the 18th century when the mat
 
 <img align="right" width="70" height="70" src="c.png">
 <p style="font-size:50px"  align="center" >Code and Explications </p>
-<img align="left" width="70" height="70" src=" qt%20(2).png">
+<img align="left" width="70" height="70" src=" qt%20(2).PNG">
 
 <br>
 <br>
@@ -954,19 +954,19 @@ int main(int argc, char *argv[])
 <br>
 <p style="font-size:18px " align="center"  >Last not least we will leave you with a quick gif demonstration , please stand by :
 </p>
-<img src="ttt.GIF">
-<img src="t.GIF">
+<img src="ttt.gif">
+<img src="t.gif">
 
 <br>
 
-<img src="tt.GIF">
+<img src="tt.gif">
 
 <br>
 <br>
 <br>
 <br>
 
-<img align="right" width="90" height="90" src="list.PNG">
+<img align="right" width="90" height="90" src="list.png">
 
 <br>
 <br>
@@ -978,7 +978,7 @@ int main(int argc, char *argv[])
 <br> >>Hope you enjoy my Report about the SudoKu Game ^^
 </p> 
 
-<img align="right" width="150" height="150" src="thank-you (7).PNG">
+<img align="right" width="150" height="150" src="thank-you (7).png">
 
 
 

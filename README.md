@@ -1,7 +1,7 @@
 
 ![](1.png)
 
-  * * <img src="summary.png" width="250" height="200">
+  * * * * <img src="s.PNG" width="250" height="150">
 
 
 
@@ -28,9 +28,13 @@ The basis of the game originated in Switzerland in the 18th century when the mat
 <br>
 <br>
 
-<img align="right" width="70" height="70" src="c.png">
-<p style="font-size:50px"  align="center" >Code and Explications </p>
-<img align="left" width="70" height="70" src="qt (2).png">
+<img align="right" width="90" height="90" src="c.png">
+<img align="right" width=250 src="d.png">
+<br>
+<br>
+<br>
+<br>
+<img align="left" width="90" height="90" src=" qt%20(2).png">
 
 <br>
 <br>
@@ -61,17 +65,12 @@ appears only once in each row, column, and subsquare</p>
 
 <br>
 
-<img width="250" height="250" align="right" src="Capture.PNG">
+<img   src="p.jpg">
 
 <br>
 
 <p style="font-size:18px " align=""  >In our case we have blocks insted of and each block contain 3x3 grid, so i design a small figure to show you 
   </p>
-
-<br>
-<br>
-<br>
-<br>
 
 <p style="font-size:20px " align=""  >To make our code easy to understand , i will split the totality of the code into two part :
   
@@ -954,19 +953,19 @@ int main(int argc, char *argv[])
 <br>
 <p style="font-size:18px " align="center"  >Last not least we will leave you with a quick gif demonstration , please stand by :
 </p>
-<img src="ttt.gif">
-<img src="t.gif">
+<img src="ttt.GIF">
+<img src="t.GIF">
 
 <br>
 
-<img src="tt.gif">
+<img src="tt.GIF">
 
 <br>
 <br>
 <br>
 <br>
 
-<img align="right" width="90" height="90" src="list.png">
+<img align="right" width="90" height="90" src="list.PNG">
 
 <br>
 <br>
@@ -978,7 +977,7 @@ int main(int argc, char *argv[])
 <br> >>Hope you enjoy my Report about the SudoKu Game ^^
 </p> 
 
-<img align="right" width="150" height="150" src="thank-you (7).png">
+<img align="right" width="150" height="150" src="thank-you (7).PNG">
 
 
 

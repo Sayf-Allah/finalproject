@@ -1,7 +1,7 @@
 
 ![](1.png)
 
-  * * * * <img src="s.PNG" width="250" height="150">
+  * * * * <img src="s.png" width="250" height="150">
 
 
 
@@ -34,7 +34,7 @@ The basis of the game originated in Switzerland in the 18th century when the mat
 <br>
 <br>
 <br>
-<img align="left" width="90" height="90" src=" qt(2).PNG">
+<img align="left" width="90" height="90" src="qt (2).png">
 
 <br>
 <br>
@@ -47,7 +47,7 @@ The basis of the game originated in Switzerland in the 18th century when the mat
 
 <br>
 
-<img align="center" src="sudoku_structure.JPG">
+<img align="center" src="sudoku_structure.jpg">
 
 <br>
 <br>
